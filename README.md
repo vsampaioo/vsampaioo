@@ -7,21 +7,24 @@
 </p>
 
 <p align="center">
-    <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="300"/>
-</p>
-
-<p align="center">
     <em>Desenvolvedor BackEnd | Golang (Go) | Python | DevOps | SQL | Microsserviços </em>
 </p>
 
 ---
 
 <h2 align="center">🛠 Tecnologias</h2>
+<h3 align="center">Linguagens de Programação</h3>
 <p align="center">
-    <img alt="Golang" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40"/>
-    <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
-    <img alt="SQL"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-    <img alt="DevOps" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40"/>
+    <img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+<h3 align="center">Banco de Dados</h3>
+<p align="center">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+<h3 align="center">Ferramentas DevOps</h3>
+<p align="center">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
