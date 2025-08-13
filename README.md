@@ -26,28 +26,6 @@
 
 ---
 
-<h2 align="center">🚀 Projetos Recentes</h2>
-
-<table align="center" cellspacing="15">
-    <tr>
-        <td align="center">
-            <a href="https://github.com/vsampaioo/projeto1" target="_blank">
-                <img src="https://user-images.githubusercontent.com/0000000/placeholder1.png" width="150" />
-                <br />
-                Projeto 1
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/vsampaioo/projeto2" target="_blank">
-                <img src="https://user-images.githubusercontent.com/0000000/placeholder2.png" width="150" />
-                <br />
-                Projeto 2
-            </a>
-        </td>
-    </tr>
-</table>
-
----
 
 <h2 align="center">📈 Estatísticas do GitHub</h2>
 <p align="center">
