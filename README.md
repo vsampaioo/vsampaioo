@@ -13,17 +13,9 @@
 
 
 <p align="center">
-    <img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-</p>
-
-<p align="center">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-<p align="center">
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,py,mysql,docker,aws" />
+  </a>
 </p>
 
 ---
@@ -41,13 +33,13 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/vinicius-almeida-sampaio/" target="_blank">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+       <img alt="Instagram" src="https://skillicons.dev/icons?i=linkedin" />
     </a>
     <a href="https://github.com/vsampaioo" target="_blank">
-        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+       <img alt="Instagram" src="https://skillicons.dev/icons?i=github" />
     </a>
     <a href="https://www.instagram.com/vini_ipanema/" target="_blank">
-        <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+        <img alt="Instagram" src="https://skillicons.dev/icons?i=instagram" />
     </a>
 </p>
 
