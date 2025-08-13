@@ -12,7 +12,7 @@
 
 <h2 align="center">🛠 Tecnologias & Ferramentas</h2>
 <p align="center">
-  <img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white(https://imgur.com/a/a59MjnY" />
+  <img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white(https://https://i.imgur.com/CtiJmVz.png" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="DevOps" src="https://img.shields.io/badge/DevOps-0A66C2?style=for-the-badge&logo=azuredevops&logoColor=white" />
