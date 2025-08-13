@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    <img src="https://i.imgur.com/3YpA3tX.gif" width="150" />
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJta3Ayd2NhMG5iemg0d2JnY2g5bXVkanNwazJiOXB4NDJsY2hwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LZ3u3BeP3pjTDqYaqc/giphy.gif" width="150" />
 </p>
 
 <p align="center">
@@ -18,10 +18,10 @@
 
 <h2 align="center">🛠 Tecnologias</h2>
 <p align="center">
-    <img alt="Golang" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30"/>
-    <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30"/>
-    <img alt="SQL"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
-    <img alt="DevOps" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="30"/>
+    <img alt="Golang" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40"/>
+    <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
+    <img alt="SQL"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+    <img alt="DevOps" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40"/>
 </p>
 
 ---
