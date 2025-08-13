@@ -1,21 +1,21 @@
-<h1 align="center">Olá, eu sou o Vinícius 👋</h1>
+<h1 align="center">Me chamo Vinícius, estudante de ADS, entusiasta da programação</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="300"/>
 </p>
 
 <p align="center">
-  <em>Estudante de programação | Apaixonado por tecnologia | Buscando ser profissional</em>
+  <em>Desenvolvedor BackEnd | Golang (Go) | Python | DevOps | SQL | Microsserviços </em>
 </p>
 
 ---
 
-<h2 align="center">🛠 Tecnologias & Ferramentas</h2>
+<h2 align="center">🛠 Tecnologias</h2>
 <p align="center">
-  <img alt="Golang" src="https://i.imgur.com/CtiJmVz.png" height="28"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="DevOps" src="https://img.shields.io/badge/DevOps-0A66C2?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img alt="Golang" src="https://i.imgur.com/CtiJmVz.png" height="30"/>
+  <img alt="Python" src=https://images.seeklogo.com/logo-png/20/2/python-logo-png_seeklogo-207405.png height="30"/>
+  <img alt="SQL"    src=https://www.clipartmax.com/png/middle/275-2753287_sql-is-a-query-language-used-to-communicate-with-databases-sql-language.png height="30"/>
+  <img alt="DevOps" src="https://as2.ftcdn.net/jpg/05/48/32/61/1000_F_548326184_s97Y02hKTjxCzd2WZiOI9QattZOHHSWU.jpg height="30"/>
 </p>
 
 ---
