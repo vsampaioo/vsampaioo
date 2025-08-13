@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Me+chamo+Vin%C3%ADcius%2C+estudante+de+ADS%2C+entusiasta+da+programa%C3%A7%C3%A3o">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Hello+world!;Vin%C3%ADcius+from+Brazil">
 </h1>
 
 <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGIyZDNlOWYxZTAyZTc3MzQ5NmUyM2I3NzE0MDVkZGNhNTllNjVmY2Q1ZjBhZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o85xAY5yS6h59N7kU/giphy.gif" width="150" />
+    <img src="https://i.imgur.com/3YpA3tX.gif" width="150" />
 </p>
 
 <p align="center">
@@ -26,25 +26,47 @@
 
 ---
 
+<h2 align="center">🚀 Projetos Recentes</h2>
+
+<table align="center" cellspacing="15">
+    <tr>
+        <td align="center">
+            <a href="https://github.com/seu-usuario/projeto1" target="_blank">
+                <img src="https://user-images.githubusercontent.com/0000000/placeholder1.png" width="150" />
+                <br />
+                Projeto 1
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/seu-usuario/projeto2" target="_blank">
+                <img src="https://user-images.githubusercontent.com/0000000/placeholder2.png" width="150" />
+                <br />
+                Projeto 2
+            </a>
+        </td>
+    </tr>
+</table>
+
+---
 
 <h2 align="center">📈 Estatísticas do GitHub</h2>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vsampaioo&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
 </p>
 
 <h2 align="center">🌐 Linguagens Mais Usadas</h2>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsampaioo&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark" alt="Linguagens mais usadas" />
 </p>
 
 ---
 
 <h2 align="center">📫 Me encontre aqui</h2>
 <p align="center">
-    <a href="https://www.linkedin.com/in/vinicius-almeida-sampaio/" target="_blank">
+    <a href="https://linkedin.com/in/seu-usuario" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://github.com/vsampaioo" target="_blank">
+    <a href="https://github.com/seu-usuario" target="_blank">
         <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <a href="https://www.instagram.com/vini_ipanema/" target="_blank">
