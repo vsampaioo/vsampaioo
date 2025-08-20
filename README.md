@@ -1,5 +1,5 @@
 <p align="center">
-    <em>Desenvolvedor BackEnd | Golang (Go) | Python | SQL | DevOps | Microsserviços </em>
+    <em>Desenvolvedor Back-End | Go (Golang) | Python | SQL | DevOps | Microsserviços </em>
 </p>
 
 
