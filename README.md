@@ -1,12 +1,12 @@
 <p align="center">
-    <em>Desenvolvedor Back-End | Go (Golang) | Python | SQL | DevOps | Microsserviços </em>
+    <em>Data Engineer | Python | SQL | AWS</em>
 </p>
 
 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,mysql,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,docker,aws" />
   </a>
 </p>
 
